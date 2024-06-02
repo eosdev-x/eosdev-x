@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://bun.sh"><img src="https://github.com/eosdev-x/eosdev-x/blob/efa9820bda0c1dd54f587a033971e410e1a1581c/eosdev.png" alt="Logo" height=170></a>
+  <a href="https://eosdev.org"><img src="https://github.com/eosdev-x/eosdev-x/blob/efa9820bda0c1dd54f587a033971e410e1a1581c/eosdev.png" alt="Logo" height=170></a>
 </p>
 
 <h1 align="center">eosdev</h1>

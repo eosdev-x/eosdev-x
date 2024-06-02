@@ -7,11 +7,11 @@
 
 <div align="center">
   <a href="https://gnu.gl/@tux">Mastodon</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;🐧&nbsp;&nbsp;</span>
   <a href="https://x.com/tuxrs_">Twitter</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;🐧&nbsp;&nbsp;</span>
   <a href="https://eosdev.org">My Site</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;🐧&nbsp;&nbsp;</span>
   <a href="http://eosdev.eth">ENS</a>
   <br />
 </div>
@@ -20,4 +20,4 @@
 $ echo hello world
 ```
 # hello world
-## My name is [eosdev](https://eosdev.org). I'm currently going to school for CS and learning Rust in my spare time.
+## My name is [eosdev](https://eosdev.org). I love coffee and linux. My bestfriend is a husky. I'm currently a CS student and learning Rust in my spare time. 

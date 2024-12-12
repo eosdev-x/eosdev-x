@@ -4,6 +4,13 @@
 </p>
 
 <h1 align="center">eosdev</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,java,typescript,redhat,git,github,js,linux,postgres,css,html,pycharm,vscode alt="Skills and tools"/>
+  </a>
+</p>
+
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/a5001dd7874605dfa322c27011eaeeb1c04b45c2/github-snake-dark.svg)
 
 <div align="center">
   <a href="https://gnu.gl/@tux">Mastodon</a>

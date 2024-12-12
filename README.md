@@ -21,4 +21,4 @@
 $ echo hello world
 ```
 # hello world
-## My name is [eosdev](https://eosdev.org). I love coffee and linux. My bestfriend is a husky. I'm currently a CS student and learning Rust in my spare time. 
+## My name is [eosdev](https://eosdev.org). I love coffee and linux. My bestfriend is a husky.

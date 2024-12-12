@@ -11,8 +11,6 @@
   <a href="https://x.com/tuxrs_">Twitter</a>
   <span>&nbsp;&nbsp;🐧&nbsp;&nbsp;</span>
   <a href="https://eosdev.org">My Site</a>
-  <span>&nbsp;&nbsp;🐧&nbsp;&nbsp;</span>
-  <a href="http://eosdev.eth">ENS</a>
   <br />
 </div>
 <h1></h1>  

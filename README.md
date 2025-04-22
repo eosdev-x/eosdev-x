@@ -13,6 +13,7 @@
 </div>
 
 <h1 align="center">eosdev</h1>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,rust,java,typescript,redhat,git,github,js,linux,nodejs,css,html,vite,vscode alt="Skills and tools" />
